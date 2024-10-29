@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.007">
+  <properties />
+  
+  
+            <testcase name="login" time="0.005" classname="junit_testng.Dependent" />
+                <testcase name="sendEMail" time="0.002" classname="junit_testng.Dependent" />
+      
+</testsuite>
